@@ -1,0 +1,21 @@
+
+body{
+  font-family: sans-serif;}
+
+  h1{
+  font-weight: normal;
+  color: cornflowerblue;}
+
+  h2{
+  font-weight: bold;
+  color: yellowgreen;
+  font-style: italic;}
+
+  ol{
+  border: 3px solid black;
+  padding: 40px;
+  font-weight: bold;;}
+  
+p{
+  text-shadow: orangered 0px 5px}
+
